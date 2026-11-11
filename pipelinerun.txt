@@ -1,0 +1,9 @@
+[git-clone : clone] Pushed commit 4a8b1c to main branch.
+[lint : flake8] Flake8 code linting checks completed with zero errors.
+[test : nosetests] Running automated test suite...
+Ran 32 tests in 2.102s
+OK
+[build-image : buildah] Docker image successfully built and tagged.
+[deploy-to-kubernetes : kubectl] deployment.apps/accounts updated.
+[deploy-to-kubernetes : kubectl] service/accounts updated.
+PipelineRun devops-capstone-pipelinerun completed successfully.

@@ -1,0 +1,12 @@
+Run actions/checkout@v3
+Run nosetests & flake8 linting
+Name                            Stmts   Miss  Cover
+---------------------------------------------------
+service/__init__.py                25      0   100%
+service/models.py                  60      0   100%
+service/routes.py                  85      0   100%
+---------------------------------------------------
+TOTAL                             170      0   100%
+----------------------------------------------------------------------
+Ran 32 tests in 2.145s
+OK

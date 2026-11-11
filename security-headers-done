@@ -1,0 +1,7 @@
+nosetests --with-coverage --cover-package=service
+Running security header checks & CORS policy tests...
+test_cors_security_headers (tests.test_routes.TestAccountService) ... ok
+test_security_headers (tests.test_routes.TestAccountService) ... ok
+----------------------------------------------------------------------
+Ran 32 tests in 1.982s
+OK
